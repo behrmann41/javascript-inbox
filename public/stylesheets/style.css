@@ -9,3 +9,16 @@ a {
 #addbtn {
   margin-top: 15px;
 }
+
+input[type=checkbox] {
+  transform: scale(1.5);
+}
+
+.navbar-header {
+  margin-top: 12px;
+}
+
+.btn.btn-default.navbar-btn {
+  margin-left: 3px;
+  margin-right: 3px;
+}
